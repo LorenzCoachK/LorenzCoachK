@@ -21,4 +21,5 @@ Ich unterstütze Menschen in ihrem Wachstum und dem Vergrößern der eigenen Kon
 |**Coaching**|   `97%`|
 |Coding|![Loading](https://media.tenor.com/wpSo-8CrXqUAAAAi/loading-loading-forever.gif) |
 
-Please refer to the instructions in your course repository to know more about the workflow.
+## Future
+![html Nerd](https://static.karimoos.com/wp-content/uploads/2024/03/Funny-I-Are-Programmer-Programming-Coding-Nerd-Corgi-Dog-Svg.jpg)
