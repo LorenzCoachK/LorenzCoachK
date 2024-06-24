@@ -17,4 +17,5 @@ Ich unterstütze Menschen in ihrem Wachstum und dem Vergrößern der eigenen Kon
 |Running |   35%|
 |Cycling |   89%|
 |**Coaching**|   `97%`|  
+
 Please refer to the instructions in your course repository to know more about the workflow.
