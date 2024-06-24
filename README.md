@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @LorenzCoachK
-- 👀 I’m interested in Sports general (Basketball, Cycling, Triathlon, Yoga especially) and education
-- 🌱 I’m currently learning Webdevelopment Yoga
-- 💞️ I’m looking to collaborate on everything that helps to learn, understand and to grow
-- 📫 How to reach me lorenzkrueger@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: thinking about it
+# Lorenz Coach K
 
-<!---
-LorenzCoachK/LorenzCoachK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ich unterstütze Menschen in ihrem Wachstum und dem Vergrößern der eigenen Konfortzone. Und hier unterstütze ich mich 🕺.  
+[LinkedIn Profile](www.linkedin.com/in/lorenzkrueger)  
+![Lorenz](https://media.licdn.com/dms/image/D4E16AQEepXZ_x7XSWg/profile-displaybackgroundimage-shrink_350_1400/0/1717402582928?e=1724889600&v=beta&t=jgv_ytINycbU33mv4SKLc5SxLBBBuwtBr_vLnNFhx70)
+[Instagram Profile](www.www.instagram.com/lorenzkrueger/)  
+## Passion:
+- Basketball
+- Cycling
+- Triathlon
+- Coaching
+### Skills
+|Skill  |Grade|  
+|--------|:----:|
+|Swim    |   20%|
+|Running |   35%|
+|Cycling |   89%|
+|**Coaching**|   `97%`|  
+Please refer to the instructions in your course repository to know more about the workflow.
