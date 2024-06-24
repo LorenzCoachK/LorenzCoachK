@@ -14,7 +14,7 @@ Ich unterstütze Menschen in ihrem Wachstum und dem Vergrößern der eigenen Kon
 - Coaching 🧑🏼‍⚕️
 ### Skills
 |Skill  |Grade|  
-|--------|:----:|
+|:--------:|:----:|
 |Swim    |   20%|
 |Running |   35%|
 |Cycling |   89%|
