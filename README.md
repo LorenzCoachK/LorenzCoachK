@@ -21,4 +21,4 @@ Ich unterstütze Menschen in ihrem Wachstum und dem Vergrößern der eigenen Kon
 |Coding|![Loading](https://media.tenor.com/wpSo-8CrXqUAAAAi/loading-loading-forever.gif) |
 
 ## Future
-![html Nerd](https://static.karimoos.com/wp-content/uploads/2024/03/Funny-I-Are-Programmer-Programming-Coding-Nerd-Corgi-Dog-Svg.jpg)
+![Coding Nerd](https://static.karimoos.com/wp-content/uploads/2024/03/Funny-I-Are-Programmer-Programming-Coding-Nerd-Corgi-Dog-Svg.jpg)
