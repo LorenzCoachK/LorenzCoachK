@@ -1,3 +1,4 @@
+![Lorenz](https://media.licdn.com/dms/image/D4E16AQEepXZ_x7XSWg/profile-displaybackgroundimage-shrink_350_1400/0/1717402582928?e=1724889600&v=beta&t=jgv_ytINycbU33mv4SKLc5SxLBBBuwtBr_vLnNFhx70)
 # Lorenz Coach K
 
 Ich unterstütze Menschen in ihrem Wachstum und dem Vergrößern der eigenen Konfortzone.  
@@ -5,7 +6,7 @@ Ich unterstütze Menschen in ihrem Wachstum und dem Vergrößern der eigenen Kon
 
 
 [LinkedIn Profile](www.linkedin.com/in/lorenzkrueger)  
-![Lorenz](https://media.licdn.com/dms/image/D4E16AQEepXZ_x7XSWg/profile-displaybackgroundimage-shrink_350_1400/0/1717402582928?e=1724889600&v=beta&t=jgv_ytINycbU33mv4SKLc5SxLBBBuwtBr_vLnNFhx70)
+
 [Instagram Profile](www.www.instagram.com/lorenzkrueger/)  
 ## Passion:
 - Basketball ⛹🏼‍♂️
