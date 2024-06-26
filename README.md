@@ -1,7 +1,7 @@
 ![Lorenz](https://media.licdn.com/dms/image/D4E16AQEepXZ_x7XSWg/profile-displaybackgroundimage-shrink_350_1400/0/1717402582928?e=1724889600&v=beta&t=jgv_ytINycbU33mv4SKLc5SxLBBBuwtBr_vLnNFhx70)
 # Lorenz Coach K  [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20">](https://www.linkedin.com/in/lorenzkrueger/) [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="20" height="20">](https://www.instagram.com/lorenzkrueger/)
 
-Ich unterstütze Menschen in ihrem Wachstum und dem Vergrößern der eigenen Konfortzone.  
+Ich unterstütze Menschen in ihrem Wachstum und dem Vergrößern der eigenen Komfortzone.  
 **_Und hier vergrößere ich meine eigene Konfortzone_** 🕺.
 <br>  
 
