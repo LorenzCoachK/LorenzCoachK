@@ -2,7 +2,7 @@
 # Lorenz Coach K  [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20">](https://www.linkedin.com/in/lorenzkrueger/) [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="20" height="20">](https://www.instagram.com/lorenzkrueger/)
 
 Ich unterstütze Menschen in ihrem Wachstum und dem Vergrößern der eigenen Konfortzone.  
-**_Und hier unterstütze ich mich_** 🕺.
+**_Und hier vergrößere ich meine eigene Konfortzone_** 🕺.
 <br>  
 
 
